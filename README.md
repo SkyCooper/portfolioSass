@@ -13,13 +13,13 @@
 
 
 ### Overview
-I mastered HTML, CSS and Bootstrap features in this project. You can see the visual representation of the website above.
-![video]https://github.com/SkyCooper/bootstrapWeb/blob/main/CooperPage.mp4
+I mastered HTML, sCSS and SASS features in this project. You can see the visual representation of the website above.
+
 
 ### Used in this project
-👉HTML tags, Bootstrap, Comments, CSS styling, Positioning,etc.
+👉HTML tags, SCSS-SASS, Comments, CSS styling, Positioning,etc.
 
 ### How to Use the Project
 + First download a code editor
-+ Second open the files : [My Docs](https://github.com/SkyCooper/bootstrapWeb)
++ Second open the files : [My Docs](https://github.com/SkyCooper/portfolioSass)
 + You can use this tutorial : [VS Code tutorial](https://www.youtube.com/watch?v=fJEbVCrEMSE)
